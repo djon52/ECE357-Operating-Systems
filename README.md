@@ -1,4 +1,4 @@
-# ECE357_Operating_Systems
+# ECE357 Operating Systems
 Projects for ECE357 - Operating Systems
 
 1) Kitty - A program to concatenate the contents of multiple files to a single output file
