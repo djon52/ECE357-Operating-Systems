@@ -1,0 +1,17 @@
+ALL: 2Atest  shellgame.o
+
+2Atest: 2Atest.c spinlock.h spinlock.c tas64.S
+	gcc -o 2Atest spinlock.c 2Atest.c tas64.S
+	
+sem.o: sem.h sem.c
+	gcc -c sem.c
+
+spinlock.o:
+	gcc -c spinlock.c
+
+tas.o:
+	gcc -c tas64.S 
+
+shellgame.o:
+	gcc -o shellgame shellgame.c sem.c spinlock.c tas64.S
+	
