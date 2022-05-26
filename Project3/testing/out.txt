@@ -1,0 +1,24 @@
+total 68
+-rw-r--r-- 1 runner runner     0 Oct 23 23:09 first line
+drwxr-xr-x 1 runner runner     0 Oct 23 02:26 hi
+-rwxr-xr-x 1 runner runner 17440 Oct 23 01:48 main
+-rw-r--r-- 1 runner runner    36 Oct 22 02:27 Makefile
+-rwxr-xr-x 1 runner runner 17744 Oct 23 23:08 mysh
+-rw-r--r-- 1 runner runner  7653 Oct 23 23:08 mysh.c
+-rw-r--r-- 1 runner runner    97 Oct 14 16:05 -notes
+-rw-r--r-- 1 runner runner     0 Oct 23 23:09 out.txt
+-rwxr-xr-x 1 runner runner   309 Oct 23 20:00 test1.sh
+-rwxrwxrwx 1 runner runner   637 Oct 22 18:53 test2.sh
+-rw-r--r-- 1 runner runner    18 Oct 23 22:55 testfile.out
+total 72
+-rw-r--r-- 1 runner runner     0 Oct 23 23:09 first line
+drwxr-xr-x 1 runner runner     0 Oct 23 02:26 hi
+-rwxr-xr-x 1 runner runner 17440 Oct 23 01:48 main
+-rw-r--r-- 1 runner runner    36 Oct 22 02:27 Makefile
+-rwxr-xr-x 1 runner runner 17744 Oct 23 23:08 mysh
+-rw-r--r-- 1 runner runner  7653 Oct 23 23:09 mysh.c
+-rw-r--r-- 1 runner runner    97 Oct 14 16:05 -notes
+-rw-r--r-- 1 runner runner   601 Oct 23 23:09 out.txt
+-rwxr-xr-x 1 runner runner   309 Oct 23 20:00 test1.sh
+-rwxrwxrwx 1 runner runner   637 Oct 22 18:53 test2.sh
+-rw-r--r-- 1 runner runner    18 Oct 23 22:55 testfile.out
